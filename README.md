@@ -1,3 +1,3 @@
 # SuCLIP
 Vision-Language, Open-Vocabulary <br>
-If the paper is accepted, we will make the code publicly available.
+The project is built on top of OVCoser, and we would like to thank the authors of OVCoser!
