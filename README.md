@@ -1,4 +1,4 @@
-# Seeing the Unseen: A Semantic Alignment and Context-Aware Prompt Framework for Open-Vocabulary Camouflaged Object Segmentation
+# SuCLIP
 [ICCV2025] official implementation for SuCLIP
 
 ### Datasets and run
